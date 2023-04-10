@@ -1,5 +1,4 @@
 numpy
-render_template
 gunicorn
 opencv_python
 Pillow
